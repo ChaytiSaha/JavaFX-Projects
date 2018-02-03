@@ -1,0 +1,30 @@
+
+.mainFxmlClass {
+
+}
+#Clickme{
+    -fx-font-size: 15px;
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+    -fx-padding: 6 6 6 6;
+    -fx-border-radius: 8;
+    -fx-fill-width: bold;
+}
+#Exit{
+     -fx-font-size: 15px;
+     -fx-background-color: blueviolet;
+     -fx-text-fill: white;
+     -fx-fill-width: bold;
+}
+#myMessage{
+    -fx-font-size: 25px;
+    -fx-background-color:wheat;
+    -fx-text-fill: purple;
+    -fx-padding: 6 6 6 6;
+    -fx-border-radius: 8;
+    -fx-fill-width: bold;
+    -fx-text-alignment: center;
+}
+.root{
+    -fx-background-color:whitesmoke;
+}
