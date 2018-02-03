@@ -1,0 +1,34 @@
+/*
+ * StyleSheet file for Calculator
+ */
+
+#result{
+    -fx-font-size: 25px;
+    -fx-background-color:lavender;
+    -fx-text-fill: black;
+    -fx-padding: 6 6 6 6;
+    -fx-fill-width: bold;
+}
+#result1{
+    -fx-font-size: 10px;
+    -fx-background-color:lavender;
+    -fx-text-fill: black;
+    -fx-padding: 6 6 6 6;
+}
+.button{
+    -fx-background-color: lavender;
+    -fx-text-fill: black;
+}
+
+.button:hover{
+    -fx-background-color:blue;
+    -fx-text-fill: white;
+}
+
+.root{
+    -fx-background-color:lightblue;
+}
+
+.mainFxmlClass {
+
+}
